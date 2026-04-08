@@ -1,0 +1,11 @@
+{
+  "run_id": "tfidf_ovr_fulltext",
+  "model": "tfidf_ovr_logreg",
+  "document_access": "full_text",
+  "val_micro_f1": 0.6017791732077447,
+  "test_micro_f1": 0.5794979079497908,
+  "test_macro_f1": 0.13935686321292742,
+  "test_subset_accuracy": 0.406,
+  "runtime_seconds": 105.22800421714783,
+  "frequent_label_threshold": 50
+}

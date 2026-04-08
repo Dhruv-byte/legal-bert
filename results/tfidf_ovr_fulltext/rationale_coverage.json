@@ -1,0 +1,7 @@
+{
+  "run_id": "tfidf_ovr_fulltext",
+  "document_access": "full_text",
+  "train_mean_coverage": 1.0,
+  "validation_mean_coverage": 1.0,
+  "test_mean_coverage": 1.0
+}
